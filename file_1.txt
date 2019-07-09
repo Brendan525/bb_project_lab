@@ -2,3 +2,7 @@ What is your name?
 Hello
 My Name is Brendan Burch
 I working to become a Front-End Developer
+
+Here are my three lines
+I am doing this in vim
+End
